@@ -4,9 +4,9 @@
 
 # we are declaring these values as global so that parent chart can overwrite them
 docker:
-  registry: stashed
+  registry: codejamninja
   image: stash-mongodb
-  tag: 3.6
+  tag: 000f2c6-dirty_linux_amd64
 
 # optional argument to send mongodump or mongorestore command
 backup:
