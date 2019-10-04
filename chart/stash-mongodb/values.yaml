@@ -6,7 +6,7 @@
 docker:
   registry: codejamninja
   image: stash-mongodb
-  tag: 000f2c6-dirty_linux_amd64
+  tag: 4.1.13-2-g3475ae7_linux_amd64
 
 # optional argument to send mongodump or mongorestore command
 backup:
